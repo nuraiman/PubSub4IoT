@@ -17,7 +17,7 @@
   "license": "MIT",
   "readmeFilename": "README.txt",
   "dependencies": {
-    "atob": "^1.1.2",
+    "atob": "^2.1.2",
     "btoa": "^1.1.2",
     "googleapis": "^2.0.1"
   }
