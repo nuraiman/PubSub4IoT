@@ -19,6 +19,6 @@
   "dependencies": {
     "atob": "^2.1.2",
     "btoa": "^1.1.2",
-    "googleapis": "^2.0.1"
+    "googleapis": "^59.0.0"
   }
 }
